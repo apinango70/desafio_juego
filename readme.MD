@@ -18,7 +18,7 @@ para instalar la gema colorize debes ejecutar: gem install colorize.
 ## Autores ✒️
 
 
-* **Alejandro Piñango** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Alejandro Piñango** - *Trabajo Inicial* - [villanuevand](mailto:alejandropinango@gmail.com)
 
 
 ## Licencia 📄
