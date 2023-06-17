@@ -4,7 +4,7 @@ _Este programa permite jugar piedra, papel o tijera con el computador, el jugado
 
 ## Comenzando 🚀
 
-_para descargar el proyecto en tu computador, debes ejecutar, desde el terminal git, git clone https:  [[[[[[direccion]]]]]_
+_para descargar el proyecto en tu computador, debes ejecutar, desde el terminal git, git clone https://github.com/apinango70/desafio_juego.git
 
  
 ### Pre-requisitos 📋
